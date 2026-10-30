@@ -102,6 +102,35 @@
   </tr>
 </table>
 
+<h2 align="center">🗄️ Legacy plugins</h2>
+
+<p align="center">
+  <sub>These only get security fixes and don't support Kirby 6.</sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="220">
+      <a href="https://github.com/owebstudio/kirby-plates"><img src="images/icons/plates.svg" width="56" alt=""></a><br>
+      <a href="https://github.com/owebstudio/kirby-plates"><b>Plates</b></a><br>
+      <sub>Use the Plates template engine<br>for your templates</sub><br><br>
+      <a href="https://github.com/owebstudio/kirby-plates"><img src="images/buttons/legacy-kirby-3-5.svg" alt="Kirby 3 to 5" height="32"></a>
+    </td>
+    <td align="center" valign="top" width="220">
+      <a href="https://github.com/owebstudio/kirby-template-stacks"><img src="images/icons/template-stacks.svg" width="56" alt=""></a><br>
+      <a href="https://github.com/owebstudio/kirby-template-stacks"><b>Template Stacks</b></a><br>
+      <sub>Push to named stacks and<br>render them somewhere else</sub><br><br>
+      <a href="https://github.com/owebstudio/kirby-template-stacks"><img src="images/buttons/legacy-kirby-3-5.svg" alt="Kirby 3 to 5" height="32"></a>
+    </td>
+    <td align="center" valign="top" width="220">
+      <a href="https://github.com/owebstudio/kirby-move-pages"><img src="images/icons/move-pages.svg" width="56" alt=""></a><br>
+      <a href="https://github.com/owebstudio/kirby-move-pages"><b>Move Pages</b></a><br>
+      <sub>Move pages to another parent<br>in the Panel</sub><br><br>
+      <a href="https://github.com/owebstudio/kirby-move-pages"><img src="images/buttons/legacy-kirby-3.svg" alt="Kirby 3 only" height="32"></a>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">🔑 License keys</h2>
 
 <p align="center">
