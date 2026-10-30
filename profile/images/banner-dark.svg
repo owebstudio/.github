@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" fill="none">
+  <defs>
+    <clipPath id="clip"><rect width="1280" height="400" rx="24"/></clipPath>
+    <radialGradient id="glow-a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1060 40) scale(520 360)">
+      <stop stop-color="#03a696" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#03a696" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 420) scale(520 300)">
+      <stop stop-color="#18a558" stop-opacity="0.24499999999999997"/>
+      <stop offset="1" stop-color="#18a558" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#03a696"/>
+      <stop offset="1" stop-color="#18a558"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.09"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="400" fill="#0a0a0a"/>
+    <rect width="1280" height="400" fill="url(#dots)"/>
+    <rect width="1280" height="400" fill="url(#glow-a)"/>
+    <rect width="1280" height="400" fill="url(#glow-b)"/>
+
+    <g transform="translate(75.06158357771261 51.06158357771261) scale(0.24633431085043989)"><g transform="translate(0 512) scale(.1 -.1)" fill="#ffffff"><path d="M853 2993 c4 -702 7 -1467 7 -1700 l0 -423 705 0 705 0 0 280 0 280 -427 2 -428 3 0 188 c0 103 1 612 3 1132 l2 945 1135 0 1135 0 0 -425 0 -425 280 0 280 0 0 710 0 710 -1702 0 -1701 0 6 -1277z"/><path d="M2560 1720 l0 -850 282 2 282 3 132 185 c73 101 136 186 142 188 5 1 73 -83 150 -188 l141 -190 281 0 280 0 0 850 0 850 -280 0 -280 0 -2 -445 -3 -445 -138 160 c-76 88 -142 160 -147 160 -4 0 -68 -72 -141 -159 l-134 -159 -3 444 -2 444 -280 0 -280 0 0 -850z"/></g></g>
+    <text x="92" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-1.5" fill="#ffffff">oweb studio</text>
+    <text x="96" y="296" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="28" fill="#9a9a9a">Paid and free plugins for <tspan fill="#03a696" font-weight="600">Kirby CMS</tspan></text>
+
+    <g transform="translate(820 68) rotate(-6 180 130)" opacity="0.5">
+      <rect width="360" height="250" rx="16" fill="#141919" stroke="#2b3333" stroke-width="2"/>
+    </g>
+    <g transform="translate(780 64)">
+      <rect width="400" height="272" rx="16" fill="#141919" stroke="#2b3333" stroke-width="2"/>
+      <circle cx="28" cy="26" r="6" fill="#2b3333"/>
+      <circle cx="48" cy="26" r="6" fill="#2b3333"/>
+      <circle cx="68" cy="26" r="6" fill="#2b3333"/>
+      <path d="M0 52h400" stroke="#2b3333" stroke-width="2"/>
+
+      <rect x="28" y="76" width="96" height="10" rx="5" fill="#3a4444"/>
+      <rect x="28" y="96" width="344" height="40" rx="8" fill="#0f1313" stroke="#2b3333" stroke-width="2"/>
+      <rect x="44" y="111" width="160" height="10" rx="5" fill="#3a4444"/>
+
+      <rect x="28" y="152" width="344" height="36" rx="8" fill="#0f1313" stroke="#2b3333" stroke-width="2"/>
+      <rect x="44" y="165" width="110" height="10" rx="5" fill="#3a4444"/>
+      <path d="M346 166l6 6 6-6" stroke="#9a9a9a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <rect x="28" y="204" width="64" height="44" rx="8" fill="url(#tile)" opacity=".9"/>
+      <rect x="100" y="204" width="64" height="44" rx="8" fill="url(#tile)" opacity=".6"/>
+      <rect x="172" y="204" width="64" height="44" rx="8" fill="url(#tile)" opacity=".35"/>
+
+      <rect x="268" y="208" width="104" height="36" rx="18" fill="#03a696"/>
+      <rect x="296" y="222" width="48" height="8" rx="4" fill="#ffffff" opacity=".9"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1278" height="398" rx="23" stroke="#252525" stroke-width="2"/>
+</svg>
