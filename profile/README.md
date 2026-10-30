@@ -24,19 +24,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://github.com/owebstudio/kirby-instagram-feed"><img src="images/icons/instagram-feed.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-instagram-feed"><b>Instagram Feed</b></a><br>
       <sub>Show your Instagram posts<br>on your site</sub><br><br>
       <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/29afd8d3-78d4-4cd5-a19b-a13c3d3b5e1b"><img src="images/buttons/price-29.99.svg" alt="€29.99, buy" height="32"></a>
     </td>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/1f3ad982-7cfa-4f53-a1c2-fc2d12d80b2f"><img src="images/icons/tinymce-field.svg" width="56" alt=""></a><br>
       <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/1f3ad982-7cfa-4f53-a1c2-fc2d12d80b2f"><b>TinyMCE Field</b></a><br>
       <sub>The TinyMCE rich text editor<br>as a Panel field</sub><br><br>
       <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/1f3ad982-7cfa-4f53-a1c2-fc2d12d80b2f"><img src="images/buttons/price-29.99.svg" alt="€29.99, buy" height="32"></a>
     </td>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/2a631542-2793-4e73-bdf1-fa33d7b6bce8"><img src="images/icons/google-translate.svg" width="56" alt=""></a><br>
       <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/2a631542-2793-4e73-bdf1-fa33d7b6bce8"><b>Google Translate</b></a><br>
       <sub>Translate your content<br>in the Panel</sub><br><br>
@@ -44,19 +44,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="220">
-      <a href="https://github.com/owebstudio/kirby-accordion-field"><img src="images/icons/accordion-field.svg" width="56" alt=""></a><br>
-      <a href="https://github.com/owebstudio/kirby-accordion-field"><b>Accordion Field</b></a><br>
-      <sub>Group fields into collapsible<br>sections in the Panel</sub><br><br>
-      <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/05159116-5ad1-41bf-ab0f-bb3f5635d844"><img src="images/buttons/price-29.99.svg" alt="€29.99, buy" height="32"></a>
-    </td>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="3" width="330">
       <a href="https://github.com/owebstudio/kirby-tui-image-editor"><img src="images/icons/image-editor-field.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-tui-image-editor"><b>Image Editor Field</b></a><br>
       <sub>Edit images right<br>in the Panel</sub><br><br>
       <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/8a06fd59-6e0c-4426-9c1b-95581fd7374a"><img src="images/buttons/price-19.99.svg" alt="€19.99, buy" height="32"></a>
     </td>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="3" width="330">
       <a href="https://github.com/owebstudio/merx-mollie"><img src="images/icons/mollie-merx.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/merx-mollie"><b>Mollie for Merx</b></a><br>
       <sub>Mollie payments for<br>the Merx shop plugin</sub><br><br>
@@ -73,13 +67,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="2" width="220">
+      <a href="https://github.com/owebstudio/kirby-accordion-field"><img src="images/icons/accordion-field.svg" width="56" alt=""></a><br>
+      <a href="https://github.com/owebstudio/kirby-accordion-field"><b>Accordion Field</b></a><br>
+      <sub>Group fields into collapsible<br>sections in the Panel</sub><br><br>
+      <a href="https://github.com/owebstudio/kirby-accordion-field"><img src="images/buttons/free.svg" alt="Free, MIT" height="32"></a>
+    </td>
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://github.com/owebstudio/kirby-clear-cache"><img src="images/icons/clear-cache.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-clear-cache"><b>Clear Cache</b></a><br>
       <sub>Clear the cache and temporary<br>files from the Panel</sub><br><br>
       <a href="https://github.com/owebstudio/kirby-clear-cache"><img src="images/buttons/free.svg" alt="Free, MIT" height="32"></a>
     </td>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://github.com/owebstudio/kirby-pwa"><img src="images/icons/pwa.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-pwa"><b>PWA</b></a><br>
       <sub>Turn your site into<br>a progressive web app</sub><br><br>
@@ -87,13 +87,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="3" width="330">
       <a href="https://github.com/owebstudio/kirby-whatsapp-button"><img src="images/icons/whatsapp-button.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-whatsapp-button"><b>WhatsApp Button</b></a><br>
       <sub>A floating WhatsApp<br>chat button for your site</sub><br><br>
       <a href="https://github.com/owebstudio/kirby-whatsapp-button"><img src="images/buttons/free.svg" alt="Free, MIT" height="32"></a>
     </td>
-    <td align="center" valign="top" width="220">
+    <td align="center" valign="top" colspan="3" width="330">
       <a href="https://github.com/owebstudio/kirby-detect-adblock"><img src="images/icons/detect-adblock.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-detect-adblock"><b>Detect AdBlock</b></a><br>
       <sub>Detect ad blockers and<br>show visitors a message</sub><br><br>
