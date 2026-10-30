@@ -143,7 +143,7 @@
 
 <p align="center">
   Questions and bug reports go to <a href="https://github.com/owebstudio/support/issues">owebstudio/support</a>.<br>
-  You can also mail us at <a href="mailto:support@owebstudio.com">support@owebstudio.com</a>.
+  You can also mail us at <a href="mailto:contact@owebstudio.com">contact@owebstudio.com</a>.
 </p>
 
 <br>
