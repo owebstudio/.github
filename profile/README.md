@@ -54,7 +54,7 @@
       <a href="https://github.com/owebstudio/kirby-tui-image-editor"><img src="images/icons/image-editor-field.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-tui-image-editor"><b>Image Editor Field</b></a><br>
       <sub>Edit images right<br>in the Panel</sub><br><br>
-      <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/8a06fd59-6e0c-4426-9c1b-95581fd7374a"><img src="images/buttons/price-39.99.svg" alt="€39.99, buy" height="32"></a>
+      <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/8a06fd59-6e0c-4426-9c1b-95581fd7374a"><img src="images/buttons/price-19.99.svg" alt="€19.99, buy" height="32"></a>
     </td>
     <td align="center" valign="top" width="220">
       <a href="https://github.com/owebstudio/merx-mollie"><img src="images/icons/mollie-merx.svg" width="56" alt=""></a><br>
