@@ -90,19 +90,26 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3" width="330">
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://github.com/owebstudio/kirby-whatsapp-button"><img src="images/icons/whatsapp-button.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-whatsapp-button"><b>WhatsApp Button</b></a><br>
       <a href="https://github.com/owebstudio/kirby-whatsapp-button"><img src="images/buttons/kirby-6-ready.svg" alt="Kirby 6 ready" height="30"></a><br>
-      <sub>A floating WhatsApp<br>chat button for your site</sub><br><br>
+      <sub>A floating WhatsApp<br>chat button<br>for your site</sub><br><br>
       <a href="https://github.com/owebstudio/kirby-whatsapp-button"><img src="images/buttons/free.svg" alt="Free, MIT" height="32"></a>
     </td>
-    <td align="center" valign="top" colspan="3" width="330">
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://github.com/owebstudio/kirby-detect-adblock"><img src="images/icons/detect-adblock.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-detect-adblock"><b>Detect AdBlock</b></a><br>
       <a href="https://github.com/owebstudio/kirby-detect-adblock"><img src="images/buttons/kirby-6-ready.svg" alt="Kirby 6 ready" height="30"></a><br>
-      <sub>Detect ad blockers and show<br>your visitors a message</sub><br><br>
+      <sub>Detect ad blockers<br>and show your visitors<br>a message</sub><br><br>
       <a href="https://github.com/owebstudio/kirby-detect-adblock"><img src="images/buttons/free.svg" alt="Free, MIT" height="32"></a>
+    </td>
+    <td align="center" valign="top" colspan="2" width="220">
+      <a href="https://github.com/owebstudio/kirby-search-insights"><img src="images/icons/search-insights.svg" width="56" alt=""></a><br>
+      <a href="https://github.com/owebstudio/kirby-search-insights"><b>Search Insights</b></a><br>
+      <a href="https://github.com/owebstudio/kirby-search-insights"><img src="images/buttons/kirby-6-ready.svg" alt="Kirby 6 ready" height="30"></a><br>
+      <sub>See what visitors search for,<br>what finds nothing and<br>which results they open</sub><br><br>
+      <a href="https://github.com/owebstudio/kirby-search-insights"><img src="images/buttons/free.svg" alt="Free, MIT" height="32"></a>
     </td>
   </tr>
 </table>
