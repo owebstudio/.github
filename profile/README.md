@@ -42,14 +42,21 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3" width="330">
+    <td align="center" valign="top" colspan="2" width="220">
+      <a href="https://github.com/owebstudio/kirby-analytics"><img src="images/icons/analytics.svg" width="56" alt=""></a><br>
+      <a href="https://github.com/owebstudio/kirby-analytics"><b>Analytics</b></a><br>
+      <a href="https://github.com/owebstudio/kirby-analytics"><img src="images/buttons/kirby-6-ready.svg" alt="Kirby 6 ready" height="30"></a><br>
+      <sub>Cookieless visitor statistics<br>right in the Panel</sub><br><br>
+      <a href="https://market.owebstudio.com/checkout/buy/2b5ebedd-a30c-48d5-9142-7adaea60bdfe"><img src="images/buttons/free-pro-39.99.svg" alt="Free, Pro €39.99, buy" height="32"></a>
+    </td>
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://github.com/owebstudio/kirby-image-editor"><img src="images/icons/image-editor-field.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/kirby-image-editor"><b>Image Editor</b></a><br>
       <a href="https://github.com/owebstudio/kirby-image-editor"><img src="images/buttons/kirby-6-ready.svg" alt="Kirby 6 ready" height="30"></a><br>
       <sub>Crop, rotate, resize and filter<br>your images in the Panel</sub><br><br>
       <a href="https://owebstudio.lemonsqueezy.com/checkout/buy/8a06fd59-6e0c-4426-9c1b-95581fd7374a"><img src="images/buttons/price-19.99.svg" alt="€19.99, buy" height="32"></a>
     </td>
-    <td align="center" valign="top" colspan="3" width="330">
+    <td align="center" valign="top" colspan="2" width="220">
       <a href="https://github.com/owebstudio/merx-mollie"><img src="images/icons/mollie-merx.svg" width="56" alt=""></a><br>
       <a href="https://github.com/owebstudio/merx-mollie"><b>Mollie for Merx</b></a><br>
       <a href="https://github.com/owebstudio/merx-mollie"><img src="images/buttons/kirby-4-5.svg" alt="Kirby 4 and 5" height="30"></a><br>
